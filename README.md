@@ -2,7 +2,7 @@
 As a developer the keyboard can be concidered your hammer. This is the hammer you want.
 
 Ongoing project:
-+ Custom split / attachable keyboard
++ Custom split / attach-detach-able keyboard
 + Custom printed casing
 + Handmade soldering and customizations.
 
