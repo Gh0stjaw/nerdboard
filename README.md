@@ -1,7 +1,7 @@
 # Nerdboard
 As a developer the keyboard can be concidered your hammer. This is the hammer you want.
 
-##Ongoing project:
+## Ongoing project:
 <Details>
 + Custom split / attach-detach-able keyboard
 + Custom printed casing
